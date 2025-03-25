@@ -3,7 +3,6 @@ Welcome to my GitHub profile! I'm Pranab Napik, a passionate MERN stack develope
 
 ## About Me  
 - 🌱 Currently learning advanced MERN stack features.  
-- 🎓 Business Information Systems graduate turned developer.  
 - 🌍 Based in Perth,WA.
 - 🔭 I’m currently working on ReplyMate.
 
@@ -14,9 +13,9 @@ Here are the technologies I use to build modern, responsive, and user-friendly w
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)  
-<!--![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)  
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)  
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)    -->
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)  
 
 ## Connect With Me  
 
